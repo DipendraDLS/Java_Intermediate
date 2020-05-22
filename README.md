@@ -9,6 +9,6 @@ Includes the following topics:
       =>> In order to run JDBC Connectivity Code:\
             a. At first create database name 'JavaJDBC' in MySQL database. (See script.sql inside each project.)\
             b. Inside each code modify:\
-     &nbsp;&nbsp;&nbsp;&nbsp; url = "jdbc:MySQL://localhost:3306/JavaJDBC"; (subprotocol can be MySQL or Mariadb that depends)\
-     &nbsp;&nbsp;&nbsp;&nbsp; username = 'db_username' (specify database username most probably 'root' in windows)\
-      &nbsp;&nbsp;&nbsp;&nbsp;password = 'db_password' (leave blank if no any password is set)
+                    url = "jdbc:MySQL://localhost:3306/JavaJDBC"; (subprotocol can be MySQL or Mariadb that depends)\
+                    username = 'db_username' (specify database username most probably 'root' in windows)\
+                    password = 'db_password' (leave blank if no any password is set)
